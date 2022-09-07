@@ -870,9 +870,7 @@ export const hMoment = (() => {
 		toGregorian: toGregorian
 	};
 
-	// return hMoment;
-	// console.log(Object.assign(moment));
-	return moment;
+	return hMoment;
 
 	/************************************
       Hijri Conversion
